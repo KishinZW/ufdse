@@ -1,10 +1,12 @@
+.. image:: logo.jpg
+   :height: 355px
+   :width: 461px
+   :scale: 100%
+   :alt: logo
+   :align: center
+
 .. raw:: html
 
-   <p align="center">
-
-.. raw:: html
-
-   </p>
    <h1 align="center">
 
 Un Fin De Semana Especial
