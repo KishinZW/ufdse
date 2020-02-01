@@ -14,14 +14,23 @@
   
 <h2 id="1">before we start...</h2>  
 WARNING:  
+  
 Don't!  
+  
 Ever!  
+  
 Dream!  
+  
 About!  
+  
 Using!  
+  
 These!  
+  
 Code!  
+  
 In!  
+  
 Work!  
   
 <h2 id="2">walk through the indices</h2>  
