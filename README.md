@@ -1,5 +1,5 @@
 <p align="center"><img src=https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b4/Herobrine.png></p>
-<h1 align="center">Demos in a nutshell</h1>  
+<h1 align="center">Un Fin De Semana Especial</h1>  
 <p align="center">magnificent demos in python.</p>  
   
 - [▶ before we start...](#1)  
@@ -15,7 +15,7 @@
 WARNING:  
 Don't!  
 Ever!  
-Think!  
+Dream!  
 About!  
 Using!  
 These!  
