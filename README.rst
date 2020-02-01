@@ -1,7 +1,7 @@
 .. image:: logo.jpg
    :height: 355px
    :width: 461px
-   :scale: 100%
+   :scale: 25%
    :alt: logo
    :align: center
 
