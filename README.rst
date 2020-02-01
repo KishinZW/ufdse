@@ -7,21 +7,8 @@
 
 .. raw:: html
 
-   <h1 align="center">
-
-Un Fin De Semana Especial
-
-.. raw:: html
-
-   </h1>  
-   <p align="center">
-
-Magnificent demos in python.
-
-.. raw:: html
-
-   </p>  
-     
+   <h1 align="center">Un Fin De Semana Especial</h1>
+   <p align="center">Magnificent demos in python.</p>
 
 -  `▶ before we start... <#1>`__
 -  `▶ walk through the indices <#2>`__
