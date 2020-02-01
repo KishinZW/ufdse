@@ -10,6 +10,7 @@
 - [▶ Iterating through the non-iterable!](#6)
 - [▶ while in for](#7)
 - [▶ mathmatican's special](#8)
+- [▶ very last end](#9)
   
 <h2 id="1">before we start...</h2>  
 WARNING:  
@@ -199,4 +200,7 @@ def line_expr(p1, p2):
 ```  
   
 But I thought it will be long...  
-
+  
+<h2 id="9">very last end</h2>
+Well, if you're a nut and you do want to use those code, you don't need to copy.  
+use pip or original install command to make it!
