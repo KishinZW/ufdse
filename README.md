@@ -1,4 +1,4 @@
-<p align="center"><img src="/logo.jpg", width="355px", height="461px"></p>
+<p align="center"><img src="https://github.com/sc-1123/ufdse/blob/master/logo.jpg", width="355px", height="461px"></p>
 <h1 align="center">Un Fin De Semana Especial</h1>  
 <p align="center">Magnificent demos in python.</p>  
   
