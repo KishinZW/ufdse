@@ -1,6 +1,6 @@
-<p align="center"><img src=https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b4/Herobrine.png></p>
+<p align="center"><img src="/logo.jpg", width="355px", height="461px"></p>
 <h1 align="center">Un Fin De Semana Especial</h1>  
-<p align="center">magnificent demos in python.</p>  
+<p align="center">Magnificent demos in python.</p>  
   
 - [▶ before we start...](#1)  
 - [▶ walk through the indices](#2)  
@@ -203,4 +203,5 @@ But I thought it will be long...
   
 <h2 id="9">very last end</h2>
 Well, if you're a nut and you do want to use those code, you don't need to copy.  
-use pip or original install command to make it!
+  
+Use pip or original install command to make it!
